@@ -21,13 +21,11 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
   <img src="images/python_icon.svg" alt="PYTHON" width="60" height="60"/>
 </h4>
 
-<img src="https://camo.githubusercontent.com/fb5a50d1b0f52fcc2bd9ecd1a09e3ffa3e06793d9466a8b89083d98cd1584f02/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7665726d612d616e7573686b6126636f756e745f707269766174653d74727565267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuZx13&amp;count_private=true&amp;theme=dracula" style="max-width:100%;">
-
 **Tecnologias y Servicios Usados**
 
 <h4>
-  <img src="images/git_icon.svg" alt="GIT_ICON" width="64" height="64"/>
-  <img src="images/github_icon.svg" alt="GITHUB_ICON" width="64" height="64"/>
+  <img src="images/git_icon.svg" alt="GIT" width="64" height="64"/>
+  <img src="images/github_icon.svg" alt="GITHUB" width="64" height="64"/>
   <img src="images/nodejs_icon.svg" alt="NODEJS" width="64" height="64"/>
   <img src="images/sql_icon.svg" alt="SQL" width="64" height="64"/>
   <img src="images/anaconda_icon.png" alt="ANACONDA" width="128" height="64"/>
@@ -35,7 +33,17 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
   <img src="images/dialogflow_icon.svg" alt="DIALOGFLOW" width="64" height="64"/>
   <img src="images/firebase_icon.svg" alt="FIREBASE" width="64" height="64"/>
   <img src="images/aws_icon.svg" alt="AWS" width="128" height="64"/>
+  <img src="images/apache_icon.svg" alt="APACHE" width="128" height="64"/>
 </h4>
 
+**Estaciones de Trabajo**
+
+<h4>
+  <img src="images/ubuntu_icon.svg" alt="ANDROID_STUDIO" width="64" height="64"/>
+  <img src="images/vcode_icon.svg" alt="VISUAL_CODE" width="64" height="64"/>
+  <img src="images/astudio_icon.png" alt="ANDROID_STUDIO" width="64" height="64"/>  
+  <img src="images/pycharm_icon.svg" alt="PYCHARM" width="64" height="64"/>
+  <img src="images/eclipse_icon.svg" alt="ECLIPSE" width="64" height="64"/>
+</h4>
 
 **Mi Perfil en Linkedin** [JosuZx13](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
