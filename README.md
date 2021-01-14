@@ -1,9 +1,9 @@
-<h1>presentation.py</h1>
-<h2>
+<h2>presentation.py</h2>
+<h1>
   <img src="images/geek.svg" alt="GEEK" width="30" height="30"/>
   Hii !!!
   <img src="images/robot.svg" alt="ROBOT" width="30" height="30"/>
-</h2>
+</h1>
 
 ### Técnico Superior en Desarrollo de Aplicaciones Android
 Actualmente estudiando Ingeniería Informática en la Universidad de Granada
