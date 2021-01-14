@@ -12,38 +12,38 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
 **Lenguajes Usados Por El Momento**
 
 <h4>
-  <img src="images/c_icon.png" alt="C_LANGUAGE" width="64" height="64"/> 
-  <img src="images/cplusplus_icon.svg" alt="CPLUSPLUS" width="60" height="60"/>
-  <img src="images/html5_icon.svg" alt="HTML5" width="60" height="60"/>
-  <img src="images/css3_icon.svg" alt="CSS3" width="60" height="60"/>
-  <img src="images/java_icon.svg" alt="JAVA" width="60" height="60"/>
-  <img src="images/javascript_icon.svg" alt="JAVASCRIPT" width="60" height="60"/>
-  <img src="images/python_icon.svg" alt="PYTHON" width="60" height="60"/>
+  <img src="images/c_icon.png" alt="C_LANGUAGE" width="50" height="64"/> 
+  <img src="images/cplusplus_icon.svg" alt="CPLUSPLUS" width="50" height="50"/>
+  <img src="images/html5_icon.svg" alt="HTML5" width="50" height="50"/>
+  <img src="images/css3_icon.svg" alt="CSS3" width="50" height="50"/>
+  <img src="images/java_icon.svg" alt="JAVA" width="50" height="50"/>
+  <img src="images/javascript_icon.svg" alt="JAVASCRIPT" width="50" height="50"/>
+  <img src="images/python_icon.svg" alt="PYTHON" width="50" height="50"/>
 </h4>
 
 **Tecnologias y Servicios Usados**
 
 <h4>
-  <img src="images/git_icon.svg" alt="GIT" width="64" height="64"/>
-  <img src="images/github_icon.svg" alt="GITHUB" width="64" height="64"/>
-  <img src="images/nodejs_icon.svg" alt="NODEJS" width="64" height="64"/>
-  <img src="images/sql_icon.svg" alt="SQL" width="64" height="64"/>
-  <img src="images/anaconda_icon.png" alt="ANACONDA" width="128" height="64"/>
-  <img src="images/android_icon.svg" alt="ANDROID" width="64" height="64"/>
-  <img src="images/dialogflow_icon.svg" alt="DIALOGFLOW" width="64" height="64"/>
-  <img src="images/firebase_icon.svg" alt="FIREBASE" width="64" height="64"/>
-  <img src="images/aws_icon.svg" alt="AWS" width="128" height="64"/>
-  <img src="images/apache_icon.svg" alt="APACHE" width="128" height="64"/>
+  <img src="images/git_icon.svg" alt="GIT" width="50" height="50"/>
+  <img src="images/github_icon.svg" alt="GITHUB" width="50" height="50"/>
+  <img src="images/nodejs_icon.svg" alt="NODEJS" width="50" height="50"/>
+  <img src="images/sql_icon.svg" alt="SQL" width="50" height="50"/>
+  <img src="images/anaconda_icon.png" alt="ANACONDA" width="100" height="50"/>
+  <img src="images/android_icon.svg" alt="ANDROID" width="50" height="50"/>
+  <img src="images/dialogflow_icon.svg" alt="DIALOGFLOW" width="50" height="50"/>
+  <img src="images/firebase_icon.svg" alt="FIREBASE" width="50" height="50"/>
+  <img src="images/aws_icon.svg" alt="AWS" width="100" height="50"/>
+  <img src="images/apache_icon.svg" alt="APACHE" width="100" height="50"/>
 </h4>
 
 **Estaciones de Trabajo**
 
 <h4>
-  <img src="images/ubuntu_icon.svg" alt="ANDROID_STUDIO" width="64" height="64"/>
-  <img src="images/vcode_icon.svg" alt="VISUAL_CODE" width="64" height="64"/>
-  <img src="images/astudio_icon.png" alt="ANDROID_STUDIO" width="64" height="64"/>  
-  <img src="images/pycharm_icon.svg" alt="PYCHARM" width="64" height="64"/>
-  <img src="images/eclipse_icon.svg" alt="ECLIPSE" width="64" height="64"/>
+  <img src="images/ubuntu_icon.svg" alt="ANDROID_STUDIO" width="50" height="50"/>
+  <img src="images/vcode_icon.svg" alt="VISUAL_CODE" width="50" height="50"/>
+  <img src="images/astudio_icon.png" alt="ANDROID_STUDIO" width="50" height="50"/>  
+  <img src="images/pycharm_icon.svg" alt="PYCHARM" width="50" height="50"/>
+  <img src="images/eclipse_icon.svg" alt="ECLIPSE" width="50" height="50"/>
 </h4>
 
 **Mi Perfil en Linkedin** [JosuZx13](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
