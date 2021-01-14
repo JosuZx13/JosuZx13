@@ -1,15 +1,15 @@
-## presentation.py
-<h1>
+<h1>presentation.py</h1>
+<h2>
   <img src="images/geek.svg" alt="GEEK" width="30" height="30"/>
   Hii !!!
   <img src="images/robot.svg" alt="ROBOT" width="30" height="30"/>
-</h1>
+</h2>
 
-#### Técnico Superior en Desarrollo de Aplicaciones Android
+### Técnico Superior en Desarrollo de Aplicaciones Android
 Actualmente estudiando Ingeniería Informática en la Universidad de Granada
 
 
-**Lenguajes usados por el momento**
+**Lenguajes usados Por El Momento**
 
 <h4>
   <img src="images/c_icon.png" alt="C_LANGUAGE" width="64" height="64"/> 
@@ -37,6 +37,4 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
 </h4>
 
 
-**Mi Perfil en Linkedin**
-
-[JosuZx13](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
+**Mi Perfil en Linkedin** [JosuZx13](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
