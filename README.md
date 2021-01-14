@@ -1,4 +1,4 @@
-## saludar.js
+## presentacion.py
 ### Hi !!! :bowtie:
 #### Técnico Superior en Desarrollo de Aplicaciones Android
 Actualmente estudiando Ingeniería Informática en la Universidad de Granada
@@ -28,4 +28,4 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
 [![Linkedin](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
 
 
-⭐️ From [JosuZx13](https://github.com/JosuZx13)
+⭐️ [JosuZx13](https://github.com/JosuZx13)
