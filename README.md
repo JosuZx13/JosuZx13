@@ -25,7 +25,7 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
 
 **Mi Perfil**
 
-[![Linkedin](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
+[![Linkedin](https://img.shields.io/badge/-🧬&nbsp;&nbsp;Linkedin-000000?style=flat)](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
 
 
 ⭐️ [JosuZx13](https://github.com/JosuZx13)
