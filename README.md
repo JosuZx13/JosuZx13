@@ -21,6 +21,7 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
   <img src="images/python_icon.svg" alt="PYTHON" width="50" height="50"/>
 </h4>
 
+
 **Tecnologias y Servicios Usados**
 
 <h4>
@@ -45,5 +46,7 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
   <img src="images/pycharm_icon.svg" alt="PYCHARM" width="50" height="50"/>
   <img src="images/eclipse_icon.svg" alt="ECLIPSE" width="50" height="50"/>
 </h4>
+<br/>
+<br/>
 
-**Mi Perfil en Linkedin** [JosuZx13](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
+[<img src="images/contactme.png" alt="CONTACT" width="200" height="35"/>](https://www.linkedin.com/in/jose-manuel-osuna-luque-9b1962158)
