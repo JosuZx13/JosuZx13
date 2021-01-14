@@ -9,7 +9,7 @@
 Actualmente estudiando Ingeniería Informática en la Universidad de Granada
 
 
-**Lenguajes usados Por El Momento**
+**Lenguajes Usados Por El Momento**
 
 <h4>
   <img src="images/c_icon.png" alt="C_LANGUAGE" width="64" height="64"/> 
@@ -21,6 +21,7 @@ Actualmente estudiando Ingeniería Informática en la Universidad de Granada
   <img src="images/python_icon.svg" alt="PYTHON" width="60" height="60"/>
 </h4>
 
+<img src="https://camo.githubusercontent.com/fb5a50d1b0f52fcc2bd9ecd1a09e3ffa3e06793d9466a8b89083d98cd1584f02/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7665726d612d616e7573686b6126636f756e745f707269766174653d74727565267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuZx13&amp;count_private=true&amp;theme=dracula" style="max-width:100%;">
 
 **Tecnologias y Servicios Usados**
 
