@@ -13,7 +13,7 @@
 **Lenguajes Usados Por El Momento**
 
 <h4>
-  <img src="images/c_icon.png" alt="C_LANGUAGE" width="50" height="50"/> 
+  <img src="images/c_icon.svg" alt="C_LANGUAGE" width="50" height="50"/> 
   <img src="images/cplusplus_icon.svg" alt="CPLUSPLUS" width="50" height="50"/>
   <img src="images/html5_icon.svg" alt="HTML5" width="50" height="50"/>
   <img src="images/css3_icon.svg" alt="CSS3" width="50" height="50"/>
