@@ -36,6 +36,7 @@
   <img src="images/firebase_icon.svg" alt="FIREBASE" width="50" height="50"/>
   <img src="images/aws_icon.svg" alt="AWS" width="100" height="50"/>
   <img src="images/apache_icon.svg" alt="APACHE" width="100" height="50"/>
+  <img src="images/ios_icon.svg" alt="iOS" width="100" height="50"/>
 </h4>
 
 **Estaciones de Trabajo**
@@ -43,7 +44,7 @@
 <h4>
   <img src="images/ubuntu_icon.svg" alt="ANDROID_STUDIO" width="50" height="50"/>
   <img src="images/vcode_icon.svg" alt="VISUAL_CODE" width="50" height="50"/>
-  <img src="images/astudio_icon.png" alt="ANDROID_STUDIO" width="50" height="50"/>  
+  <img src="images/astudio_icon.svg" alt="ANDROID_STUDIO" width="50" height="50"/>  
   <img src="images/pycharm_icon.svg" alt="PYCHARM" width="50" height="50"/>
   <img src="images/eclipse_icon.svg" alt="ECLIPSE" width="50" height="50"/>
   <img src="images/xcode_icon.svg" alt="XCODE" width="50" height="50"/>
