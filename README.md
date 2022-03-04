@@ -36,7 +36,7 @@
   <img src="images/firebase_icon.svg" alt="FIREBASE" width="50" height="50"/>
   <img src="images/aws_icon.svg" alt="AWS" width="100" height="50"/>
   <img src="images/apache_icon.svg" alt="APACHE" width="100" height="50"/>
-  <img src="images/ios_icon.svg" alt="iOS" width="100" height="50"/>
+  <img src="images/ios_icon.svg" alt="iOS" width="50" height="50"/>
 </h4>
 
 **Estaciones de Trabajo**
