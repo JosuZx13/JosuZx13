@@ -7,6 +7,7 @@
 
 ### Técnico Superior en Desarrollo de Aplicaciones Android
 ### Actualmente estudiando Ingeniería Informática en la Universidad de Granada
+### Trabajando como Desarrollador de Aplicaciones iOS
 
 
 **Lenguajes Usados Por El Momento**
