@@ -30,7 +30,7 @@
   <img src="images/github_icon.svg" alt="GITHUB" width="50" height="50"/>
   <img src="images/nodejs_icon.svg" alt="NODEJS" width="50" height="50"/>
   <img src="images/sql_icon.svg" alt="SQL" width="50" height="50"/>
-  <img src="images/anaconda_icon.png" alt="ANACONDA" width="100" height="50"/>
+  <img src="images/anaconda_icon.svg" alt="ANACONDA" width="100" height="50"/>
   <img src="images/android_icon.svg" alt="ANDROID" width="50" height="50"/>
   <img src="images/dialogflow_icon.svg" alt="DIALOGFLOW" width="50" height="50"/>
   <img src="images/firebase_icon.svg" alt="FIREBASE" width="50" height="50"/>
