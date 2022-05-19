@@ -1,15 +1,1 @@
-{
-  "departure": [
-    {
-      "hour": "string",
-      "order": 0
-    }
-  ],
-  "entry": [
-    {
-      "hour": "string",
-      "order": 0
-    }
-  ],
-  "error": "string"
-}
+{"departure": [{"hour": "string", "order": 0}], "entry": [{"hour": "string", "order": 0}], "error": "string"}
