@@ -6,8 +6,8 @@
 </h1>
 
 ### Técnico Superior en Desarrollo de Aplicaciones Android
-### Actualmente estudiando Ingeniería Informática en la Universidad de Granada
-### Trabajando como Desarrollador de Aplicaciones iOS
+### Graduado en Ingeniería Informática con Mención en Computación y Sistemas Inteligentes
+### Trabajando como Desarrollador de Aplicaciones iOS en Nomasystems
 
 
 **Lenguajes Usados Por El Momento**
