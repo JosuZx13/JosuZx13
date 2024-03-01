@@ -21,6 +21,7 @@
   <img src="images/javascript_icon.svg" alt="JAVASCRIPT" width="50" height="50"/>
   <img src="images/python_icon.svg" alt="PYTHON" width="50" height="50"/>
   <img src="images/swiftui_icon.svg" alt="SWIFTUI" width="50" height="50"/>
+  <img src="images/kotlin_icon.svg" alt="KOTLIN" width="50" height="50"/>
 </h4>
 
 
